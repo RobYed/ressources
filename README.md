@@ -22,8 +22,25 @@ http://www.sitepoint.com/react-data-fetching-with-relay/?utm_source=javascriptwe
 
 
 # JavaScript
+http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
 https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
+https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript#Using_web_workers
+
+### JS Crypto
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/
+http://cryptojs.altervista.org/index.html#.VhFiG1WyNBd
+http://digitalbazaar.com/2010/07/20/javascript-tls-1/
+
+
+# Mobile Dev
+
+### Android
+### iOS
+http://chrisdell.info/blog/writing-ios-cordova-plugin-pure-swift/
+http://stackoverflow.com/questions/25448976/how-to-write-cordova-plugin-in-swift
+### Windows
+http://blogs.windows.com/msedgedev/2015/05/18/using-chakra-for-scripting-applications-across-windows-10/
 
 
 # UX / UI
