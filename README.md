@@ -7,6 +7,7 @@
 
 ### SEO
 * http://www.doz.com/search-engine/angularjs-index-seo
+
 ### Performance
 * http://www.alexkras.com/11-tips-to-improve-angularjs-performance/
 * https://scotch.io/tutorials/angularjs-seo-with-prerender-io
@@ -29,7 +30,6 @@
 ### React & Relay
 * http://www.sitepoint.com/react-data-fetching-with-relay/?utm_source=javascriptweekly&utm_medium=email
 
-
 # JavaScript
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
@@ -46,9 +46,12 @@
 # Mobile Dev
 
 ### Android
+* 
+
 ### iOS
 * http://chrisdell.info/blog/writing-ios-cordova-plugin-pure-swift/
 * http://stackoverflow.com/questions/25448976/how-to-write-cordova-plugin-in-swift
+
 ### Windows
 * http://blogs.windows.com/msedgedev/2015/05/18/using-chakra-for-scripting-applications-across-windows-10/
 * https://www.hoessl.eu/2014/12/on-using-the-ionic-framework-for-windows-phone-8-1-apps/
