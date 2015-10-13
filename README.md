@@ -21,6 +21,7 @@
 
 ### Getting Started
 * http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack?utm_source=javascriptweekly&utm_medium=email
+* https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061
 
 ### React & Flux
 * http://www.heise.de/developer/artikel/JavaScript-React-in-der-Praxis-2836251.html
@@ -31,11 +32,13 @@
 * http://www.sitepoint.com/react-data-fetching-with-relay/?utm_source=javascriptweekly&utm_medium=email
 
 # JavaScript
+* https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 * http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
 * https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript#Using_web_workers
 * http://superherojs.com/
+* https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 
 # Cryptography
 * https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/
@@ -46,7 +49,7 @@
 # Mobile Dev
 
 ### Android
-* 
+* http://www.smashingmagazine.com/2015/10/keep-your-android-app-popular-after-launch/
 
 ### iOS
 * http://chrisdell.info/blog/writing-ios-cordova-plugin-pure-swift/
@@ -59,3 +62,4 @@
 
 # UX / UI
 * http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
+* https://medium.com/materialup-exploring-material-design/how-to-keep-calm-and-create-an-app-on-ios-android-simultaneously-6c6ee9e6d406
