@@ -20,6 +20,7 @@
 # ReactJS
 
 ### Getting Started
+* http://blog.wolksoftware.com/working-with-react-and-typescript
 * http://krasimirtsonev.com/blog/article/a-modern-react-starter-pack-based-on-webpack?utm_source=javascriptweekly&utm_medium=email
 * https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061
 
@@ -31,6 +32,9 @@
 ### React & Relay
 * http://www.sitepoint.com/react-data-fetching-with-relay/?utm_source=javascriptweekly&utm_medium=email
 
+### React Native
+* https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061
+
 # JavaScript
 * https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
@@ -39,6 +43,7 @@
 * https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript#Using_web_workers
 * http://superherojs.com/
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
+* http://www.technology-ebay.de
 
 # Cryptography
 * https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/
@@ -63,3 +68,4 @@
 # UX / UI
 * http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 * https://medium.com/materialup-exploring-material-design/how-to-keep-calm-and-create-an-app-on-ios-android-simultaneously-6c6ee9e6d406
+* https://maximilianhoffmann.com/programming/how-to-build-scalable-user-interface-programs
