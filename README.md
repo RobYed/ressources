@@ -36,6 +36,8 @@
 * https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061
 
 # JavaScript
+* https://www.quora.com/How-is-Javascript-used-within-the-Spotify-desktop-application?utm_source=javascriptweekly&utm_medium=email
+* http://www.typescriptlang.org/Handbook
 * https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
@@ -66,6 +68,7 @@
 * http://appfoundry.be/blog/2014/10/16/ionic-windows-phone/
 
 # UX / UI
+* http://blog.codeschool.io/2015/10/06/behind-the-design-crafting-the-user-experience-for-code-schools-homepage/?utm_medium=email
 * http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 * https://medium.com/materialup-exploring-material-design/how-to-keep-calm-and-create-an-app-on-ios-android-simultaneously-6c6ee9e6d406
 * https://maximilianhoffmann.com/programming/how-to-build-scalable-user-interface-programs
