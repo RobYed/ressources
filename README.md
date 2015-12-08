@@ -16,6 +16,8 @@
 ### Others
 * http://www.sitepoint.com/understanding-angulars-apply-digest/
 * https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/
+* https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.yhjqgcsw4
+* https://eng.saucelabs.com/blog/building-a-ui-style-guide-with-angularjs-directives
 
 # ReactJS
 
@@ -34,6 +36,7 @@
 
 ### React Native
 * https://medium.com/@satya164/react-native-solution-to-hybrid-apps-5ff4d5696061
+* http://m.heise.de/developer/artikel/Native-Android-und-iOS-Apps-mit-React-Native-erstellen-3025889.html
 
 # JavaScript
 * https://www.quora.com/How-is-Javascript-used-within-the-Spotify-desktop-application?utm_source=javascriptweekly&utm_medium=email
@@ -46,6 +49,11 @@
 * http://superherojs.com/
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 * http://www.technology-ebay.de
+* http://blog.getify.com/concurrently-javascript-1/
+
+## Testing
+* https://github.com/adleroliveira/dreamjs
+* http://chancejs.com
 
 # Cryptography
 * https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2011/august/javascript-cryptography-considered-harmful/
@@ -72,3 +80,9 @@
 * http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/
 * https://medium.com/materialup-exploring-material-design/how-to-keep-calm-and-create-an-app-on-ios-android-simultaneously-6c6ee9e6d406
 * https://maximilianhoffmann.com/programming/how-to-build-scalable-user-interface-programs
+* http://www.sitepoint.com/dom-tips-techniques-parent-child-siblings/
+* http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/
+
+# Various
+* http://m.heise.de/developer/artikel/Continuous-Integration-mit-Java-und-JavaScript-Teil-1-Die-Kunst-der-Versionierung-2853319.html
+* http://m.heise.de/developer/artikel/Continuous-Integration-mit-Java-und-Javascript-Teil-2-Praktische-Umsetzung-2922729.html
