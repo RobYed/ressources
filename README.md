@@ -13,6 +13,17 @@
 * https://scotch.io/tutorials/angularjs-seo-with-prerender-io
 * http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
 
+### Angular 2
+* http://eisenbergeffect.bluespire.com/all-about-angular-2-0/
+* https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs
+* https://angularclass.com/angular-2-for-angularjs-developers/
+* https://angularclass.com/angular-2-components-angularjs-developers/
+* https://github.com/shprink/angular2-nobullshit-boilerplate
+* http://julienrenaux.fr/2015/12/25/angular2-series-routing/
+* http://julienrenaux.fr/2015/11/30/angular2-series-tooling/
+* http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_129
+* https://daveceddia.com/angular-2-in-plain-js/
+
 ### Others
 * http://www.sitepoint.com/understanding-angulars-apply-digest/
 * https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/
