@@ -56,11 +56,7 @@ https://daveceddia.com/testing-angular-part-3-testing-recipes/?utm_campaign=NG-N
 * http://www.technology-ebay.de
 * https://www.quora.com/How-is-Javascript-used-within-the-Spotify-desktop-application?utm_source=javascriptweekly&utm_medium=email
 * http://www.typescriptlang.org/Handbook
-
-* https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
-
 * http://superherojs.com/
-* https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 
 ## Tutorials
 * http://blog.getify.com/concurrently-javascript-1/
@@ -70,7 +66,8 @@ https://daveceddia.com/testing-angular-part-3-testing-recipes/?utm_campaign=NG-N
 * https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
 * https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
-* * http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
+* http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
+* https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
 
 ## Testing
 * https://github.com/adleroliveira/dreamjs
