@@ -13,6 +13,9 @@
 * https://scotch.io/tutorials/angularjs-seo-with-prerender-io
 * http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
 
+### Testing
+https://daveceddia.com/testing-angular-part-3-testing-recipes/?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_132
+
 ### Angular 2
 * http://eisenbergeffect.bluespire.com/all-about-angular-2-0/
 * https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs
@@ -50,17 +53,24 @@
 * http://m.heise.de/developer/artikel/Native-Android-und-iOS-Apps-mit-React-Native-erstellen-3025889.html
 
 # JavaScript
+* http://www.technology-ebay.de
 * https://www.quora.com/How-is-Javascript-used-within-the-Spotify-desktop-application?utm_source=javascriptweekly&utm_medium=email
 * http://www.typescriptlang.org/Handbook
-* https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-* http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
+
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
-* http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
-* https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript#Using_web_workers
+
 * http://superherojs.com/
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
-* http://www.technology-ebay.de
+
+## Tutorials
 * http://blog.getify.com/concurrently-javascript-1/
+* https://developer.mozilla.org/en-US/docs/Tools/Performance/Scenarios/Intensive_JavaScript#Using_web_workers
+
+## Opinions
+* https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+* https://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/
+* http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
+* * http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
 
 ## Testing
 * https://github.com/adleroliveira/dreamjs
