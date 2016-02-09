@@ -4,6 +4,7 @@
 * https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef
 * http://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide/
 * https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
+* www.barbarianmeetscoding.com/blog/2016/01/19/lean-ux-atomic-design-angular-a-flexible-front-end-architecture-for-developing-web-apps-part-i
 
 ### SEO
 * http://www.doz.com/search-engine/angularjs-index-seo
@@ -26,6 +27,7 @@ https://daveceddia.com/testing-angular-part-3-testing-recipes/?utm_campaign=NG-N
 * http://julienrenaux.fr/2015/11/30/angular2-series-tooling/
 * http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_129
 * https://daveceddia.com/angular-2-in-plain-js/
+* http://blog.scottlogic.com/2015/12/24/creating-an-angular-2-build.html?utm_campaign=NG-Newsletter&utm_medium=email&utm_source=NG-Newsletter_129
 
 ### Others
 * http://www.sitepoint.com/understanding-angulars-apply-digest/
@@ -68,6 +70,7 @@ https://daveceddia.com/testing-angular-part-3-testing-recipes/?utm_campaign=NG-N
 * http://www.heise.de/developer/artikel/Hinterfragt-Woran-erkennt-man-einen-guten-JavaScript-Entwickler-2652128.html
 * http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/?utm_source=javascriptweekly&utm_medium=email
 * https://meta.discourse.org/t/the-state-of-javascript-on-android-in-2015-is-poor/33889?utm_source=javascriptweekly&utm_medium=email
+* http://www.capitalone.io/blog/why-is-everyone-talking-about-isomorphic-javascript/?utm_source=javascriptweekly&utm_medium=email
 
 ## Testing
 * https://github.com/adleroliveira/dreamjs
